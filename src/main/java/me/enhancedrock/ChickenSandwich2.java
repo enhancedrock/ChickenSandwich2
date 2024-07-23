@@ -1,4 +1,4 @@
-package me.enhancedrock.ChickenSandwich2;
+package me.enhancedrock;
 
 import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
